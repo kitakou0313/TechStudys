@@ -22,3 +22,4 @@
    - ArgoCD
    - Circle CI
    - Grafana
+   - kubeVirt
