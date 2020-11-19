@@ -23,3 +23,4 @@
    - Circle CI
    - Grafana
    - kubeVirt
+   - Vitess
