@@ -39,3 +39,4 @@
    - Grafana
    - kubeVirt
    - Vitess
+   - k8s nfv
